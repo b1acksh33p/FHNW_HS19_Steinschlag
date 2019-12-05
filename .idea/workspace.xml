@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="157b8a62-1969-431b-be10-f7ac35e26838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FHNW_HS19_Steinschlag.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Steinschlag.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Steinschlag-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steinschlag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Steinschlag.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="157b8a62-1969-431b-be10-f7ac35e26838" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575573141766</updated>
       <workItem from="1575573142941" duration="40000" />
+      <workItem from="1575573285483" duration="9000" />
     </task>
     <servers />
   </component>
@@ -62,7 +53,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
