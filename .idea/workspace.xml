@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f66a4cd1-5074-46ab-bb95-cb00d387662c" name="Default Changelist" comment="">
-      <change afterPath="D:/Trading/Trading_Algo/main.py" afterDir="false" />
-      <change beforePath="D:/Trading/Trading_Algo/csv_persistence.py" beforeDir="false" />
-      <change beforePath="D:/Trading/Trading_Algo/dataload_no_ip_rotator.py" beforeDir="false" />
+    <list default="true" id="157b8a62-1969-431b-be10-f7ac35e26838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FHNW_HS19_Steinschlag.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Steinschlag.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Steinschlag-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Steinschlag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Steinschlag.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,19 +18,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Jupyter Notebook" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/Trading/Trading_Algo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UOhi0YAgNj6hur5CmGcOBwrbFv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1UZnmElyFnBILWcsMhnVqf7IdBE" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -46,22 +45,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f66a4cd1-5074-46ab-bb95-cb00d387662c" name="Default Changelist" comment="" />
-      <created>1575233671549</created>
+      <changelist id="157b8a62-1969-431b-be10-f7ac35e26838" name="Default Changelist" comment="" />
+      <created>1575573141766</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575233671549</updated>
-      <workItem from="1575233672677" duration="40000" />
-      <workItem from="1575234001403" duration="579000" />
-      <workItem from="1575234597096" duration="311000" />
-      <workItem from="1575234942191" duration="359000" />
-      <workItem from="1575235322720" duration="2783000" />
-      <workItem from="1575238317998" duration="831000" />
-      <workItem from="1575273635831" duration="1241000" />
-      <workItem from="1575289970129" duration="84000" />
-      <workItem from="1575533888338" duration="2045000" />
-      <workItem from="1575555871364" duration="790000" />
-      <workItem from="1575560231287" duration="11840000" />
+      <updated>1575573141766</updated>
+      <workItem from="1575573142941" duration="40000" />
     </task>
     <servers />
   </component>
@@ -73,9 +62,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
