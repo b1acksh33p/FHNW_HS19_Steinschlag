@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157b8a62-1969-431b-be10-f7ac35e26838" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steinschlag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Steinschlag.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monte_Carlo_Sim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Monte_Carlo_Sim.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +32,36 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="monte_carlo_sim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FHNW_HS19_Steinschlag" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monte_carlo_sim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.monte_carlo_sim" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,7 +90,25 @@
       <workItem from="1575635725032" duration="12862000" />
       <workItem from="1575657854848" duration="89000" />
       <workItem from="1575658064871" duration="5934000" />
-      <workItem from="1575702452111" duration="4392000" />
+      <workItem from="1575702452111" duration="12154000" />
+      <workItem from="1575747291622" duration="9065000" />
+      <workItem from="1575806138769" duration="6573000" />
+      <workItem from="1575833000377" duration="2695000" />
+      <workItem from="1575835811413" duration="3178000" />
+      <workItem from="1575839001361" duration="1856000" />
+      <workItem from="1575871192890" duration="1386000" />
+      <workItem from="1575872595299" duration="2149000" />
+      <workItem from="1575874975969" duration="1430000" />
+      <workItem from="1575876415301" duration="41000" />
+      <workItem from="1575876472908" duration="1734000" />
+      <workItem from="1575885703219" duration="189000" />
+      <workItem from="1575892843885" duration="2640000" />
+      <workItem from="1575903827126" duration="1326000" />
+      <workItem from="1575926253048" duration="3990000" />
+      <workItem from="1575954728543" duration="1680000" />
+      <workItem from="1575956428637" duration="241000" />
+      <workItem from="1575956679502" duration="629000" />
+      <workItem from="1575957317783" duration="301000" />
     </task>
     <servers />
   </component>
@@ -79,13 +133,64 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575659389731" />
-    <state x="461" y="161" key="SettingsEditor" timestamp="1575705010241">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1575957326626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575705010241" />
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1575703294713">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575957326626" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571538" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1575957326626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575703294713" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575957326626" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571538" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1575957326626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575957326626" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571537" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1575957326626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575957326626" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571538" />
+    <state width="938" height="348" key="GridCell.Tab.1.bottom" timestamp="1575872583399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.bottom/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575872583399" />
+    <state width="938" height="348" key="GridCell.Tab.1.center" timestamp="1575872583399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.center/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575872583399" />
+    <state width="938" height="348" key="GridCell.Tab.1.left" timestamp="1575872583399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.left/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575872583399" />
+    <state width="938" height="348" key="GridCell.Tab.1.right" timestamp="1575872583399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.right/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575872583399" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1575717878031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575717878031" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1575957318007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575957318007" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575885703261" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Steinschlag.ipynb</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FHNW_HS19_Steinschlag$monte_carlo_sim.coverage" NAME="monte_carlo_sim Coverage Results" MODIFIED="1575927448979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
