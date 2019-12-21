@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157b8a62-1969-431b-be10-f7ac35e26838" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FHNW_HS19_Steinschlag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FHNW_HS19_Steinschlag.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonteCarloSim.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Steinschlag-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Steinschlag-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monte_Carlo_Sim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Monte_Carlo_Sim.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Steinschlag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Steinschlag.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_per_hour_50_years.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breakthrough.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_per_hour.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
-        <option value="Python Script" />
         <option value="Setup Script" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -33,13 +35,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Monte_Carlo_Simulation">
+  <component name="RunManager" selected="Python.MonteCarloSim">
+    <configuration name="MonteCarloSim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FHNW_HS19_Steinschlag" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MonteCarloSim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Monte_Carlo_Simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FHNW_HS19_Steinschlag" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,9 +131,11 @@
     <list>
       <item itemvalue="Python.Python 3.7" />
       <item itemvalue="Python.Monte_Carlo_Simulation" />
+      <item itemvalue="Python.MonteCarloSim" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MonteCarloSim" />
         <item itemvalue="Python.Monte_Carlo_Simulation" />
         <item itemvalue="Python.Python 3.7" />
       </list>
@@ -186,6 +210,17 @@
       <workItem from="1576574812131" duration="774000" />
       <workItem from="1576651978007" duration="3062000" />
       <workItem from="1576655981026" duration="463000" />
+      <workItem from="1576696209140" duration="153000" />
+      <workItem from="1576696598566" duration="1294000" />
+      <workItem from="1576744046455" duration="938000" />
+      <workItem from="1576857302691" duration="26000" />
+      <workItem from="1576857732507" duration="1777000" />
+      <workItem from="1576916399898" duration="582000" />
+      <workItem from="1576916991455" duration="64000" />
+      <workItem from="1576920928062" duration="417000" />
+      <workItem from="1576921353703" duration="4355000" />
+      <workItem from="1576934443051" duration="835000" />
+      <workItem from="1576937321456" duration="622000" />
     </task>
     <servers />
   </component>
@@ -210,28 +245,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576247459400" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1576248517600">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1576857884083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576248517600" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576857884083" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571538" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@1920.-73.1920.1040" timestamp="1576235912189" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1576248517600">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1576857884083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576248517600" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576857884083" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571538" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@1920.-73.1920.1040" timestamp="1576235912188" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1576248517600">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1576857884082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576248517600" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576857884082" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571537" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@1920.-73.1920.1040" timestamp="1576235912188" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1576248517600">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1576857884083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576248517600" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576857884083" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575876571538" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@1920.-73.1920.1040" timestamp="1576235912188" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576248517601">
@@ -254,14 +289,14 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576248517600" />
     <state width="938" height="348" key="GridCell.Tab.1.right/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575872583399" />
-    <state x="461" y="161" key="SettingsEditor" timestamp="1576656211150">
+    <state x="461" y="161" key="SettingsEditor" timestamp="1576857326308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576656211150" />
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1576655981509">
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576857326308" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1576937323549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576655981509" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576937323549" />
     <state x="656" y="342" key="com.intellij.ide.util.TipDialog/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576574809434" />
     <state x="2576" y="269" key="com.intellij.ide.util.TipDialog/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@1920.-73.1920.1040" timestamp="1576243395643" />
   </component>
