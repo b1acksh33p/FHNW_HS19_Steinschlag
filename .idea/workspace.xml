@@ -2,18 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157b8a62-1969-431b-be10-f7ac35e26838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MonteCarloSim.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Steinschlag-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Steinschlag-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monte_Carlo_Sim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Monte_Carlo_Sim.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Steinschlag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Steinschlag.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/breakthrough.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_per_hour.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,11 +52,14 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.MonteCarloSim">
+  <component name="RunManager" selected="Python.Steinschlag">
     <configuration name="MonteCarloSim" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FHNW_HS19_Steinschlag" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -106,6 +119,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Steinschlag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FHNW_HS19_Steinschlag" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Steinschlag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="FHNW_HS19_Steinschlag" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,9 +164,11 @@
       <item itemvalue="Python.Python 3.7" />
       <item itemvalue="Python.Monte_Carlo_Simulation" />
       <item itemvalue="Python.MonteCarloSim" />
+      <item itemvalue="Python.Steinschlag" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Steinschlag" />
         <item itemvalue="Python.MonteCarloSim" />
         <item itemvalue="Python.Monte_Carlo_Simulation" />
         <item itemvalue="Python.Python 3.7" />
@@ -221,6 +255,7 @@
       <workItem from="1576921353703" duration="4355000" />
       <workItem from="1576934443051" duration="835000" />
       <workItem from="1576937321456" duration="622000" />
+      <workItem from="1577039762629" duration="2045000" />
     </task>
     <servers />
   </component>
@@ -293,10 +328,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576857326308" />
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1576937323549">
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577039762637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576937323549" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577039762637" />
     <state x="656" y="342" key="com.intellij.ide.util.TipDialog/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576574809434" />
     <state x="2576" y="269" key="com.intellij.ide.util.TipDialog/3840.-73.1920.1040/1920.-73.1920.1040/0.0.1920.1040@1920.-73.1920.1040" timestamp="1576243395643" />
   </component>
